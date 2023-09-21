@@ -6,4 +6,3 @@ form.addEventListener('submit', event => {
     event.preventDefault()
     controller.adiciona()
 })
-
